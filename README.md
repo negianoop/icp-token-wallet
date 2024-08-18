@@ -4,7 +4,9 @@ The `ICP Token Wallet` is a Rust-based smart contract deployed on the Internet C
 
 ## Features
 `Send Tokens`: Transfer tokens between addresses.
+
 `Receive Tokens`: Add tokens to a specified address.
+
 `Query Balance`: Retrieve the token balance for a given address.
 
 ## Project Structure
