@@ -1,3 +1,6 @@
+
 service : {
-    "greet": (text) -> (text) query;
+  "send": (text, text, nat) -> ();
+  "receive": (text, nat) -> ();
+  "get_balance": (text) -> (nat) query;
 }
